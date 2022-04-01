@@ -1,11 +1,12 @@
 ## Hi There!!!
 - 👋 I’m @SusanketSarkar
-- 👀 I’m interested in:
-      - Machine Learning 
-      - Deep Learning
-      - Computer Vision
-- 🌱 I’m currently learning: Computer Vision and Reinforcement Learning 
-- 📫 How to reach me:
+- 👀 I’m interested in:<br>
+      <t>- Machine Learning <br>
+      - Deep Learning<br>
+      - Computer Vision<br>
+      - Natural Language Processing<br>
+- 🌱 I’m currently learning: <br>Reinforcement Learning 
+- 📫 How to reach me:<br>
       - Email- susanketsarkar1140@gmail.com 
       
 
