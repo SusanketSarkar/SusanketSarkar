@@ -5,7 +5,7 @@
       - Deep Learning<br>
       - Computer Vision<br>
       - Natural Language Processing<br>
-- 🌱 I’m currently learning: <br>Reinforcement Learning 
+- 🌱 I’m currently learning: <br>MLOps 
 - 📫 How to reach me:<br>
       - Email- susanketsarkar1140@gmail.com 
       
