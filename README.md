@@ -1,16 +1,18 @@
-## Hi There!!!
-- 👋 I’m @SusanketSarkar
-- 👀 I’m interested in:<br>
-      <t>- Machine Learning <br>
-      - Deep Learning<br>
-      - Computer Vision<br>
-      - Natural Language Processing<br>
-- 🌱 I’m currently learning: <br>MLOps 
-- 📫 How to reach me:<br>
-      - Email- susanketsarkar1140@gmail.com 
-      
+### Hi, I'm Susanket 👋
 
-<!---
-SusanketSarkar/SusanketSarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data scientist with a strong tilt toward building real-world, ML-powered products.  
+Currently at **Aereo**, working on AI in the geospatial space 🌍🛰️.
+
+💡 **What I'm exploring right now:**
+- Reinforcement Learning fundamentals and applications 🧠
+- Building an AI-powered **smartphone app** that converts ebooks to audiobooks using generative voice models 📱📖🔊
+- Contributing to [**Hex**](https://hex.tech/), exploring how notebooks can go beyond analysis and become full-stack data products 📊🧩
+
+🛠️ I enjoy:
+- Applied ML research → productization
+- Training & fine-tuning models across vision, language, and speech
+- Reading about behavioral psychology, learning systems, and tech+society intersections
+
+Always up for learning new things, collaborating on good ideas, and experimenting with side projects.
+
+Let’s connect, code, and build useful things 🚀
