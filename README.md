@@ -1,18 +1,18 @@
-### Hi, I'm Susanket 👋
+# 💫 About Me:
+### Hi, I'm Susanket 👋<br><br>I'm a data scientist with a strong tilt toward building real-world, ML-powered products.  <br>Currently at **Aereo**, working on AI in the geospatial space 🌍🛰️.<br><br>💡 **What I'm exploring right now:**<br>- Reinforcement Learning fundamentals and applications 🧠<br>- Building an AI-powered **smartphone app** that converts ebooks to audiobooks using generative voice models 📱📖🔊<br>- Contributing to [**Hex**](https://hex.tech/), exploring how notebooks can go beyond analysis and become full-stack data products 📊🧩<br><br>🛠️ I enjoy:<br>- Applied ML research → productization<br>- Training & fine-tuning models across vision, language, and speech<br>- Reading about behavioral psychology, learning systems, and tech+society intersections<br><br>Always up for learning new things, collaborating on good ideas, and experimenting with side projects.<br><br>Let’s connect, code, and build useful things 🚀<br>
 
-I'm a data scientist with a strong tilt toward building real-world, ML-powered products.  
-Currently at **Aereo**, working on AI in the geospatial space 🌍🛰️.
 
-💡 **What I'm exploring right now:**
-- Reinforcement Learning fundamentals and applications 🧠
-- Building an AI-powered **smartphone app** that converts ebooks to audiobooks using generative voice models 📱📖🔊
-- Contributing to [**Hex**](https://hex.tech/), exploring how notebooks can go beyond analysis and become full-stack data products 📊🧩
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/positivlyskewed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:susanketsarkar1140@gmail.com) 
 
-🛠️ I enjoy:
-- Applied ML research → productization
-- Training & fine-tuning models across vision, language, and speech
-- Reading about behavioral psychology, learning systems, and tech+society intersections
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SusanketSarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SusanketSarkar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanketSarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Always up for learning new things, collaborating on good ideas, and experimenting with side projects.
+---
+[![](https://visitcount.itsvg.in/api?id=SusanketSarkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Let’s connect, code, and build useful things 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
